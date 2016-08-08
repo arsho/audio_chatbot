@@ -2,7 +2,7 @@
 Audio Chatbot is a basic speech recognition application created for learning purpose. It is in very initial phase. Feel free to contribute.
  </p>
 <hr>
-<b>Audio Chatbot</b>
+<h4>Audio Chatbot</h4>
 ![alt Audio Chatbot](https://raw.githubusercontent.com/arsho/audio_chatbot/master/audio_chatbot.png)
 <hr>
 <h2>
@@ -21,10 +21,10 @@ or install these packages from `requirements.txt` attached to this repository:
 		pip install -r requirements.txt
 
 
-<ol>
+<ul>
 <li>Run audio_chatbot.py using Python3.</li>
 <li>Click <b>Talk with me</b> button to start talking.</li>
-</ol>
+</ul>
 
 <h3>Enjoy!</h3>
 <p>
